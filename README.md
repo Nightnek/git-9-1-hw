@@ -15,3 +15,6 @@
 
 ---
 
+## Задание 3
+
+![image](https://github.com/Nightnek/git-9-1-hw/assets/127677631/b096bded-8359-4430-83b6-1a1bef544c5a)
